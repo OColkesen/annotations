@@ -9,10 +9,6 @@
             "--follow"
         ],
         [
-            "-n",
-            "--lines"
-        ],
-        [
             "-q",
             "--quiet",
             "--silent"
@@ -49,6 +45,11 @@
         ],
         [
             "--sleep-interval",
+            "N"
+        ],
+        [
+            "-n",
+            "--lines",
             "N"
         ]
     ]
